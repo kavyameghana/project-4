@@ -1,0 +1,10 @@
+import java.util.*;
+public class ojbects
+{
+  public static void main(String[] args)
+  {
+    System.out.print("Janu 2024 30k ecil , ");
+     System.out.print("riya 2010 40k jublihills , ");
+      System.out.print("zoya 2000 80k begumpet , ");
+  }
+}
